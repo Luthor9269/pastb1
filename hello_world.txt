@@ -6,4 +6,8 @@ This is hello from chaeseong. I am adding a new line of code here. You spelt my 
 
 Hello again. I am here to add in a second line. I am chaeseong.
 
+
+This is hello from Ma He. I am adding a new line of code here.
+
+Hello again. I am here to add in a second line. I am Ma He.
 This is chaeseong's third commit :D
